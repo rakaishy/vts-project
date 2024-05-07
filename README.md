@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # vte-project
 
 ## Project setup
@@ -26,9 +26,18 @@ yarn test:unit
 yarn lint
 ```
 
+### Run json serve
+```
+npx json-server json-server/categories.json
+npx json-server json-server/posts.json --port 3031
+
+```
+yarn lint
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 # vts-project
 It is the final project
->>>>>>> 61c68b21e984 (Initial commit)
+
