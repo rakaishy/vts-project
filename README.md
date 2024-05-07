@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vte-project
 
 ## Project setup
@@ -27,3 +28,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vts-project
+It is the final project
+>>>>>>> 61c68b21e984 (Initial commit)
